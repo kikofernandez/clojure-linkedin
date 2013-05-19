@@ -9,6 +9,8 @@ In this project you will find:
 
 ## Running
 
+Before running, please add your **API key** and **secret key** in the `handler.clj`.
+
 To start a web server for the application, run:
 
     lein ring server
