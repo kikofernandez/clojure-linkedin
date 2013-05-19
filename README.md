@@ -5,7 +5,7 @@ In this project you will find:
 - Authentication using OAuth 2.0
 - Simple query to the API
 - Compojure project structure
-
+- An explanation of the project can be found in my [blog](http://malagastockholm.wordpress.com/2013/05/19/clojure-and-linkedin-api/)
 
 ## Running
 
