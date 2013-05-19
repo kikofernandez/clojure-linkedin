@@ -2,9 +2,9 @@
 
 This is a template project for getting you up and running using the LinkedIn REST API.
 In this project you will find:
-- [X] Authentication using OAuth 2.0
-- [X] Simple query to the API
-- [X] Compojure project structure
+- Authentication using OAuth 2.0
+- Simple query to the API
+- Compojure project structure
 
 
 ## Running
