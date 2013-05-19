@@ -1,12 +1,11 @@
 # linkedin-clojure
 
-FIXME
+This is a template project for getting you up and running using the LinkedIn REST API.
+In this project you will find:
+- [X] Authentication using OAuth 2.0
+- [X] Simple query to the API
+- [X] Compojure project structure
 
-## Prerequisites
-
-You will need [Leiningen][1] 1.7.0 or above installed.
-
-[1]: https://github.com/technomancy/leiningen
 
 ## Running
 
@@ -16,4 +15,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 linkedin-clojure
